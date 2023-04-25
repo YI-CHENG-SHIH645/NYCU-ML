@@ -1,0 +1,9 @@
+*/cmake-build-debug
+*/__pycache__
+*/.idea
+*/.DS_Store
+*/*.egg-info
+*/*.HEIC
+*/*.pdf
+*/*-ubyte
+*/*.txt
