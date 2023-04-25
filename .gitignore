@@ -7,3 +7,7 @@
 */*.pdf
 */*-ubyte
 */*.txt
+hw1/src/*.png
+*/build
+.idea
+.DS_Store
