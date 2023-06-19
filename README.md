@@ -1,6 +1,6 @@
 # NYCU-ML
-* hw1 : 
-* hw2 : 
+* hw1 : Linear Regression
+* hw2 : Naive Bayes / Online Learning
 * hw3 : bayesian linear regression
 * hw4 : Expectation Maximization / Logistic Regression
 * hw5 : Gaussian Process / SVM
